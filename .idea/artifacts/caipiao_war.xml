@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="caipiao:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="caipiao.war">
-      <element id="artifact" artifact-name="caipiao:war exploded" />
-    </root>
-  </artifact>
-</component>
